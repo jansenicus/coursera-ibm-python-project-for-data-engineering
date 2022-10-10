@@ -582,24 +582,10 @@ Log the following `"Load phase Ended"`.
 log("Load phase Ended")
 ```
 
-## Authors
+## Student
 
 
-Ramesh Sannareddy, Joseph Santrcangelo and Azim Hirjani
-
-
-### Other Contributors
-
-
-Rav Ahuja
-
-
-## Change Log
-
-
-| Date (YYYY-MM-DD) | Version | Changed By        | Change Description                 |
-| ----------------- | ------- | ----------------- | ---------------------------------- |
-| 2020-11-25        | 0.1     | Ramesh Sannareddy | Created initial version of the lab |
+Jansen Simanullang © 2022
 
 
 Copyright © 2020 IBM Corporation. This notebook and its source code are released under the terms of the [MIT License](https://cognitiveclass.ai/mit-license?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0221ENSkillsNetwork23455645-2022-01-01&cm_mmc=Email_Newsletter-\_-Developer_Ed%2BTech-\_-WW_WW-\_-SkillsNetwork-Courses-IBM-DA0321EN-SkillsNetwork-21426264&cm_mmca1=000026UJ&cm_mmca2=10006555&cm_mmca3=M12345678&cvosrc=email.Newsletter.M12345678&cvo_campaign=000026UJ).
